@@ -1,0 +1,6 @@
+fastapi
+psycopg2-binary
+urllib3
+uvicorn
+sqlalchemy
+pydantic
